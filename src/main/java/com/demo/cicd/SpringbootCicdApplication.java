@@ -8,6 +8,10 @@ public class SpringbootCicdApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootCicdApplication.class, args);
+		
+		System.out.println("Hello world from spring boot");
+		
+		
 	}
 
 }
